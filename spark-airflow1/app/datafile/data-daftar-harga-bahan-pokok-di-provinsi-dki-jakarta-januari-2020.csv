@@ -1,0 +1,837 @@
+tanggal,komoditi,satuan,harga
+2020-01-02,Beras Medium,Kg,13375
+2020-01-03,Beras Medium,Kg,10700
+2020-01-06,Beras Medium,Kg,10950
+2020-01-07,Beras Medium,Kg,10950
+2020-01-08,Beras Medium,Kg,11040
+2020-01-09,Beras Medium,Kg,11040
+2020-01-10,Beras Medium,Kg,13938
+2020-01-13,Beras Medium,Kg,13875
+2020-01-14,Beras Medium,Kg,13625
+2020-01-15,Beras Medium,Kg,13750
+2020-01-16,Beras Medium,Kg,14000
+2020-01-17,Beras Medium,Kg,13500
+2020-01-20,Beras Medium,Kg,13938
+2020-01-21,Beras Medium,Kg,13875
+2020-01-22,Beras Medium,Kg,13625
+2020-01-23,Beras Medium,Kg,13875
+2020-01-24,Beras Medium,Kg,13875
+2020-01-27,Beras Medium,Kg,13875
+2020-01-28,Beras Medium,Kg,13875
+2020-01-29,Beras Medium,Kg,13875
+2020-01-30,Beras Medium,Kg,13875
+2020-01-31,Beras Medium,Kg,13875
+2020-01-02,Beras Premium,Kg,15125
+2020-01-03,Beras Premium,Kg,12100
+2020-01-06,Beras Premium,Kg,12050
+2020-01-07,Beras Premium,Kg,12050
+2020-01-08,Beras Premium,Kg,12200
+2020-01-09,Beras Premium,Kg,12200
+2020-01-10,Beras Premium,Kg,12400
+2020-01-13,Beras Premium,Kg,12200
+2020-01-14,Beras Premium,Kg,15313
+2020-01-15,Beras Premium,Kg,12625
+2020-01-16,Beras Premium,Kg,15500
+2020-01-17,Beras Premium,Kg,12200
+2020-01-20,Beras Premium,Kg,12300
+2020-01-21,Beras Premium,Kg,12300
+2020-01-22,Beras Premium,Kg,12200
+2020-01-23,Beras Premium,Kg,12600
+2020-01-24,Beras Premium,Kg,12500
+2020-01-27,Beras Premium,Kg,12500
+2020-01-28,Beras Premium,Kg,12500
+2020-01-29,Beras Premium,Kg,12500
+2020-01-30,Beras Premium,Kg,12500
+2020-01-31,Beras Premium,Kg,12500
+2020-01-02,Gula Pasir,Kg,13550
+2020-01-03,Gula Pasir,Kg,13600
+2020-01-06,Gula Pasir,Kg,13400
+2020-01-07,Gula Pasir,Kg,13550
+2020-01-08,Gula Pasir,Kg,13800
+2020-01-09,Gula Pasir,Kg,13700
+2020-01-10,Gula Pasir,Kg,13700
+2020-01-13,Gula Pasir,Kg,14050
+2020-01-14,Gula Pasir,Kg,13900
+2020-01-15,Gula Pasir,Kg,13300
+2020-01-16,Gula Pasir,Kg,13850
+2020-01-17,Gula Pasir,Kg,13700
+2020-01-20,Gula Pasir,Kg,13900
+2020-01-21,Gula Pasir,Kg,14200
+2020-01-22,Gula Pasir,Kg,14400
+2020-01-23,Gula Pasir,Kg,13900
+2020-01-24,Gula Pasir,Kg,14000
+2020-01-27,Gula Pasir,Kg,14000
+2020-01-28,Gula Pasir,Kg,14000
+2020-01-29,Gula Pasir,Kg,14000
+2020-01-30,Gula Pasir,Kg,14000
+2020-01-31,Gula Pasir,Kg,14000
+2020-01-02,Minyak Goreng Bimoli Botol,Liter,13900
+2020-01-03,Minyak Goreng Bimoli Botol,Liter,13900
+2020-01-06,Minyak Goreng Bimoli Botol,Liter,13900
+2020-01-07,Minyak Goreng Bimoli Botol,Liter,13900
+2020-01-08,Minyak Goreng Bimoli Botol,Liter,13800
+2020-01-09,Minyak Goreng Bimoli Botol,Liter,14000
+2020-01-10,Minyak Goreng Bimoli Botol,Liter,13900
+2020-01-13,Minyak Goreng Bimoli Botol,Liter,13600
+2020-01-14,Minyak Goreng Bimoli Botol,Liter,13900
+2020-01-15,Minyak Goreng Bimoli Botol,Liter,13900
+2020-01-16,Minyak Goreng Bimoli Botol,Liter,13700
+2020-01-17,Minyak Goreng Bimoli Botol,Liter,13700
+2020-01-20,Minyak Goreng Bimoli Botol,Liter,14300
+2020-01-21,Minyak Goreng Bimoli Botol,Liter,14200
+2020-01-22,Minyak Goreng Bimoli Botol,Liter,14100
+2020-01-23,Minyak Goreng Bimoli Botol,Liter,14200
+2020-01-24,Minyak Goreng Bimoli Botol,Liter,13800
+2020-01-27,Minyak Goreng Bimoli Botol,Liter,13800
+2020-01-28,Minyak Goreng Bimoli Botol,Liter,13800
+2020-01-29,Minyak Goreng Bimoli Botol,Liter,13800
+2020-01-30,Minyak Goreng Bimoli Botol,Liter,13800
+2020-01-31,Minyak Goreng Bimoli Botol,Liter,13800
+2020-01-02,Minyak Goreng Curah,Liter,12300
+2020-01-03,Minyak Goreng Curah,Liter,12350
+2020-01-06,Minyak Goreng Curah,Liter,12300
+2020-01-07,Minyak Goreng Curah,Liter,12250
+2020-01-08,Minyak Goreng Curah,Liter,12500
+2020-01-09,Minyak Goreng Curah,Liter,12500
+2020-01-10,Minyak Goreng Curah,Liter,12300
+2020-01-13,Minyak Goreng Curah,Liter,12200
+2020-01-14,Minyak Goreng Curah,Liter,12400
+2020-01-15,Minyak Goreng Curah,Liter,12600
+2020-01-16,Minyak Goreng Curah,Liter,12400
+2020-01-17,Minyak Goreng Curah,Liter,12700
+2020-01-20,Minyak Goreng Curah,Liter,12900
+2020-01-21,Minyak Goreng Curah,Liter,12400
+2020-01-22,Minyak Goreng Curah,Liter,12800
+2020-01-23,Minyak Goreng Curah,Liter,12800
+2020-01-24,Minyak Goreng Curah,Liter,12500
+2020-01-27,Minyak Goreng Curah,Liter,12700
+2020-01-28,Minyak Goreng Curah,Liter,12800
+2020-01-29,Minyak Goreng Curah,Liter,12600
+2020-01-30,Minyak Goreng Curah,Liter,12600
+2020-01-31,Minyak Goreng Curah,Liter,12600
+2020-01-02,"Daging Sapi, Lokal, Paha Belakang",Kg,121000
+2020-01-03,"Daging Sapi, Lokal, Paha Belakang",Kg,121000
+2020-01-06,"Daging Sapi, Lokal, Paha Belakang",Kg,122000
+2020-01-07,"Daging Sapi, Lokal, Paha Belakang",Kg,122000
+2020-01-08,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-09,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-10,"Daging Sapi, Lokal, Paha Belakang",Kg,121000
+2020-01-13,"Daging Sapi, Lokal, Paha Belakang",Kg,123000
+2020-01-14,"Daging Sapi, Lokal, Paha Belakang",Kg,122000
+2020-01-15,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-16,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-17,"Daging Sapi, Lokal, Paha Belakang",Kg,124000
+2020-01-20,"Daging Sapi, Lokal, Paha Belakang",Kg,121000
+2020-01-21,"Daging Sapi, Lokal, Paha Belakang",Kg,123000
+2020-01-22,"Daging Sapi, Lokal, Paha Belakang",Kg,122000
+2020-01-23,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-24,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-27,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-28,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-29,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-30,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-31,"Daging Sapi, Lokal, Paha Belakang",Kg,120000
+2020-01-02,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,126667
+2020-01-03,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,130000
+2020-01-06,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,133333
+2020-01-07,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,135000
+2020-01-08,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,100000
+2020-01-09,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,100000
+2020-01-10,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,126667
+2020-01-13,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,131667
+2020-01-14,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,133333
+2020-01-15,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,126667
+2020-01-16,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,126667
+2020-01-17,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120833
+2020-01-20,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,126667
+2020-01-21,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,131667
+2020-01-22,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,131667
+2020-01-23,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,126667
+2020-01-24,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,125000
+2020-01-27,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,125000
+2020-01-28,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,125000
+2020-01-29,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,125000
+2020-01-30,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,125000
+2020-01-31,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,125000
+2020-01-02,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,70333
+2020-01-03,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,73667
+2020-01-06,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,106667
+2020-01-07,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,108333
+2020-01-08,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,96667
+2020-01-09,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,101667
+2020-01-10,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,103333
+2020-01-13,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,93333
+2020-01-14,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,106667
+2020-01-15,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,100000
+2020-01-16,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,100000
+2020-01-17,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,108333
+2020-01-20,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,103333
+2020-01-21,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,95000
+2020-01-22,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,108333
+2020-01-23,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,100000
+2020-01-24,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,96667
+2020-01-27,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,96667
+2020-01-28,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,96667
+2020-01-29,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,96667
+2020-01-30,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,96667
+2020-01-31,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,96667
+2020-01-02,"Daging Sapi, Lokal, Daging, Tetelan",Kg,63333
+2020-01-03,"Daging Sapi, Lokal, Daging, Tetelan",Kg,70000
+2020-01-06,"Daging Sapi, Lokal, Daging, Tetelan",Kg,61666
+2020-01-07,"Daging Sapi, Lokal, Daging, Tetelan",Kg,65000
+2020-01-08,"Daging Sapi, Lokal, Daging, Tetelan",Kg,56667
+2020-01-09,"Daging Sapi, Lokal, Daging, Tetelan",Kg,59167
+2020-01-10,"Daging Sapi, Lokal, Daging, Tetelan",Kg,80000
+2020-01-13,"Daging Sapi, Lokal, Daging, Tetelan",Kg,80000
+2020-01-14,"Daging Sapi, Lokal, Daging, Tetelan",Kg,78333
+2020-01-15,"Daging Sapi, Lokal, Daging, Tetelan",Kg,70000
+2020-01-16,"Daging Sapi, Lokal, Daging, Tetelan",Kg,73333
+2020-01-17,"Daging Sapi, Lokal, Daging, Tetelan",Kg,77500
+2020-01-20,"Daging Sapi, Lokal, Daging, Tetelan",Kg,80000
+2020-01-21,"Daging Sapi, Lokal, Daging, Tetelan",Kg,85000
+2020-01-22,"Daging Sapi, Lokal, Daging, Tetelan",Kg,81667
+2020-01-23,"Daging Sapi, Lokal, Daging, Tetelan",Kg,70000
+2020-01-24,"Daging Sapi, Lokal, Daging, Tetelan",Kg,73333
+2020-01-27,"Daging Sapi, Lokal, Daging, Tetelan",Kg,73333
+2020-01-28,"Daging Sapi, Lokal, Daging, Tetelan",Kg,73333
+2020-01-29,"Daging Sapi, Lokal, Daging, Tetelan",Kg,73333
+2020-01-30,"Daging Sapi, Lokal, Daging, Tetelan",Kg,73333
+2020-01-31,"Daging Sapi, Lokal, Daging, Tetelan",Kg,73333
+2020-01-02,"Daging Sapi, Impor, Beku",Kg,n/a
+2020-01-03,"Daging Sapi, Impor, Beku",Kg,n/a
+2020-01-06,"Daging Sapi, Impor, Beku",Kg,n/a
+2020-01-07,"Daging Sapi, Impor, Beku",Kg,n/a
+2020-01-08,"Daging Sapi, Impor, Beku",Kg,n/a
+2020-01-09,"Daging Sapi, Impor, Beku",Kg,n/a
+2020-01-10,"Daging Sapi, Impor, Beku",Kg,85850
+2020-01-13,"Daging Sapi, Impor, Beku",Kg,90850
+2020-01-14,"Daging Sapi, Impor, Beku",Kg,85000
+2020-01-15,"Daging Sapi, Impor, Beku",Kg,85000
+2020-01-16,"Daging Sapi, Impor, Beku",Kg,85000
+2020-01-17,"Daging Sapi, Impor, Beku",Kg,85000
+2020-01-20,"Daging Sapi, Impor, Beku",Kg,84150
+2020-01-21,"Daging Sapi, Impor, Beku",Kg,86650
+2020-01-22,"Daging Sapi, Impor, Beku",Kg,86650
+2020-01-23,"Daging Sapi, Impor, Beku",Kg,84150
+2020-01-24,"Daging Sapi, Impor, Beku",Kg,84150
+2020-01-27,"Daging Sapi, Impor, Beku",Kg,84150
+2020-01-28,"Daging Sapi, Impor, Beku",Kg,84150
+2020-01-29,"Daging Sapi, Impor, Beku",Kg,84150
+2020-01-30,"Daging Sapi, Impor, Beku",Kg,84150
+2020-01-31,"Daging Sapi, Impor, Beku",Kg,84150
+2020-01-02,"Daging Sapi, Lokal, Has Dalam",Kg,135000
+2020-01-03,"Daging Sapi, Lokal, Has Dalam",Kg,96333
+2020-01-06,"Daging Sapi, Lokal, Has Dalam",Kg,136667
+2020-01-07,"Daging Sapi, Lokal, Has Dalam",Kg,138333
+2020-01-08,"Daging Sapi, Lokal, Has Dalam",Kg,133333
+2020-01-09,"Daging Sapi, Lokal, Has Dalam",Kg,135000
+2020-01-10,"Daging Sapi, Lokal, Has Dalam",Kg,135000
+2020-01-13,"Daging Sapi, Lokal, Has Dalam",Kg,135000
+2020-01-14,"Daging Sapi, Lokal, Has Dalam",Kg,136667
+2020-01-15,"Daging Sapi, Lokal, Has Dalam",Kg,133333
+2020-01-16,"Daging Sapi, Lokal, Has Dalam",Kg,130000
+2020-01-17,"Daging Sapi, Lokal, Has Dalam",Kg,148333
+2020-01-20,"Daging Sapi, Lokal, Has Dalam",Kg,135000
+2020-01-21,"Daging Sapi, Lokal, Has Dalam",Kg,135000
+2020-01-22,"Daging Sapi, Lokal, Has Dalam",Kg,135000
+2020-01-23,"Daging Sapi, Lokal, Has Dalam",Kg,133333
+2020-01-24,"Daging Sapi, Lokal, Has Dalam",Kg,130000
+2020-01-27,"Daging Sapi, Lokal, Has Dalam",Kg,130000
+2020-01-28,"Daging Sapi, Lokal, Has Dalam",Kg,130000
+2020-01-29,"Daging Sapi, Lokal, Has Dalam",Kg,130000
+2020-01-30,"Daging Sapi, Lokal, Has Dalam",Kg,130000
+2020-01-31,"Daging Sapi, Lokal, Has Dalam",Kg,130000
+2020-01-02,Ayam Boiler,ekor,37100
+2020-01-03,Ayam Boiler,ekor,37500
+2020-01-06,Ayam Boiler,ekor,36600
+2020-01-07,Ayam Boiler,ekor,36800
+2020-01-08,Ayam Boiler,ekor,36100
+2020-01-09,Ayam Boiler,ekor,36600
+2020-01-10,Ayam Boiler,ekor,37100
+2020-01-13,Ayam Boiler,ekor,37300
+2020-01-14,Ayam Boiler,ekor,35400
+2020-01-15,Ayam Boiler,ekor,37000
+2020-01-16,Ayam Boiler,ekor,35800
+2020-01-17,Ayam Boiler,ekor,35400
+2020-01-20,Ayam Boiler,ekor,36300
+2020-01-21,Ayam Boiler,ekor,37700
+2020-01-22,Ayam Boiler,ekor,36200
+2020-01-23,Ayam Boiler,ekor,37200
+2020-01-24,Ayam Boiler,ekor,34700
+2020-01-27,Ayam Boiler,ekor,34700
+2020-01-28,Ayam Boiler,ekor,34700
+2020-01-29,Ayam Boiler,ekor,34700
+2020-01-30,Ayam Boiler,ekor,34700
+2020-01-31,Ayam Boiler,ekor,34700
+2020-01-02,Ayam Kampung,ekor,53750
+2020-01-03,Ayam Kampung,ekor,64375
+2020-01-06,Ayam Kampung,ekor,56250
+2020-01-07,Ayam Kampung,ekor,57500
+2020-01-08,Ayam Kampung,ekor,87500
+2020-01-09,Ayam Kampung,ekor,68750
+2020-01-10,Ayam Kampung,ekor,93750
+2020-01-13,Ayam Kampung,ekor,78000
+2020-01-14,Ayam Kampung,ekor,98750
+2020-01-15,Ayam Kampung,ekor,94000
+2020-01-16,Ayam Kampung,ekor,94000
+2020-01-17,Ayam Kampung,ekor,92000
+2020-01-20,Ayam Kampung,ekor,70500
+2020-01-21,Ayam Kampung,ekor,68500
+2020-01-22,Ayam Kampung,ekor,63000
+2020-01-23,Ayam Kampung,ekor,75500
+2020-01-24,Ayam Kampung,ekor,76500
+2020-01-27,Ayam Kampung,ekor,76500
+2020-01-28,Ayam Kampung,ekor,76500
+2020-01-29,Ayam Kampung,ekor,76500
+2020-01-30,Ayam Kampung,ekor,76500
+2020-01-31,Ayam Kampung,ekor,76500
+2020-01-02,Telur Ayam Ras,Kg,26900
+2020-01-03,Telur Ayam Ras,Kg,26900
+2020-01-06,Telur Ayam Ras,Kg,26400
+2020-01-07,Telur Ayam Ras,Kg,26400
+2020-01-08,Telur Ayam Ras,Kg,26400
+2020-01-09,Telur Ayam Ras,Kg,26200
+2020-01-10,Telur Ayam Ras,Kg,25600
+2020-01-13,Telur Ayam Ras,Kg,26200
+2020-01-14,Telur Ayam Ras,Kg,25600
+2020-01-15,Telur Ayam Ras,Kg,25400
+2020-01-16,Telur Ayam Ras,Kg,25900
+2020-01-17,Telur Ayam Ras,Kg,25900
+2020-01-20,Telur Ayam Ras,Kg,25700
+2020-01-21,Telur Ayam Ras,Kg,26000
+2020-01-22,Telur Ayam Ras,Kg,25700
+2020-01-23,Telur Ayam Ras,Kg,25600
+2020-01-24,Telur Ayam Ras,Kg,26100
+2020-01-27,Telur Ayam Ras,Kg,26100
+2020-01-28,Telur Ayam Ras,Kg,26100
+2020-01-29,Telur Ayam Ras,Kg,26100
+2020-01-30,Telur Ayam Ras,Kg,26100
+2020-01-31,Telur Ayam Ras,Kg,26100
+2020-01-02,Telur Ayam Kampung,butir,2520
+2020-01-03,Telur Ayam Kampung,butir,2570
+2020-01-06,Telur Ayam Kampung,butir,2500
+2020-01-07,Telur Ayam Kampung,butir,2500
+2020-01-08,Telur Ayam Kampung,butir,2700
+2020-01-09,Telur Ayam Kampung,butir,2600
+2020-01-10,Telur Ayam Kampung,butir,2330
+2020-01-13,Telur Ayam Kampung,butir,2430
+2020-01-14,Telur Ayam Kampung,butir,2470
+2020-01-15,Telur Ayam Kampung,butir,2440
+2020-01-16,Telur Ayam Kampung,butir,2400
+2020-01-17,Telur Ayam Kampung,butir,2500
+2020-01-20,Telur Ayam Kampung,butir,2330
+2020-01-21,Telur Ayam Kampung,butir,2350
+2020-01-22,Telur Ayam Kampung,butir,2470
+2020-01-23,Telur Ayam Kampung,butir,2500
+2020-01-24,Telur Ayam Kampung,butir,2600
+2020-01-27,Telur Ayam Kampung,butir,2600
+2020-01-28,Telur Ayam Kampung,butir,2600
+2020-01-29,Telur Ayam Kampung,butir,2600
+2020-01-30,Telur Ayam Kampung,butir,2600
+2020-01-31,Telur Ayam Kampung,butir,2600
+2020-01-02,Susu Kental Manis Kaleng Merk Bendera,buah,8700
+2020-01-03,Susu Kental Manis Kaleng Merk Bendera,buah,10875
+2020-01-06,Susu Kental Manis Kaleng Merk Bendera,buah,10750
+2020-01-07,Susu Kental Manis Kaleng Merk Bendera,buah,8600
+2020-01-08,Susu Kental Manis Kaleng Merk Bendera,buah,12000
+2020-01-09,Susu Kental Manis Kaleng Merk Bendera,buah,11375
+2020-01-10,Susu Kental Manis Kaleng Merk Bendera,buah,11300
+2020-01-13,Susu Kental Manis Kaleng Merk Bendera,buah,12050
+2020-01-14,Susu Kental Manis Kaleng Merk Bendera,buah,11760
+2020-01-15,Susu Kental Manis Kaleng Merk Bendera,buah,11400
+2020-01-16,Susu Kental Manis Kaleng Merk Bendera,buah,11800
+2020-01-17,Susu Kental Manis Kaleng Merk Bendera,buah,11760
+2020-01-20,Susu Kental Manis Kaleng Merk Bendera,buah,11660
+2020-01-21,Susu Kental Manis Kaleng Merk Bendera,buah,11850
+2020-01-22,Susu Kental Manis Kaleng Merk Bendera,buah,11300
+2020-01-23,Susu Kental Manis Kaleng Merk Bendera,buah,11700
+2020-01-24,Susu Kental Manis Kaleng Merk Bendera,buah,11700
+2020-01-27,Susu Kental Manis Kaleng Merk Bendera,buah,11700
+2020-01-28,Susu Kental Manis Kaleng Merk Bendera,buah,11700
+2020-01-29,Susu Kental Manis Kaleng Merk Bendera,buah,11700
+2020-01-30,Susu Kental Manis Kaleng Merk Bendera,buah,11700
+2020-01-31,Susu Kental Manis Kaleng Merk Bendera,buah,11700
+2020-01-02,Susu Kental Manis Kaleng Merk Indomilk,buah,10750
+2020-01-03,Susu Kental Manis Kaleng Merk Indomilk,buah,10750
+2020-01-06,Susu Kental Manis Kaleng Merk Indomilk,buah,10000
+2020-01-07,Susu Kental Manis Kaleng Merk Indomilk,buah,10000
+2020-01-08,Susu Kental Manis Kaleng Merk Indomilk,buah,10250
+2020-01-09,Susu Kental Manis Kaleng Merk Indomilk,buah,10500
+2020-01-10,Susu Kental Manis Kaleng Merk Indomilk,buah,10740
+2020-01-13,Susu Kental Manis Kaleng Merk Indomilk,buah,10940
+2020-01-14,Susu Kental Manis Kaleng Merk Indomilk,buah,10440
+2020-01-15,Susu Kental Manis Kaleng Merk Indomilk,buah,10400
+2020-01-16,Susu Kental Manis Kaleng Merk Indomilk,buah,10640
+2020-01-17,Susu Kental Manis Kaleng Merk Indomilk,buah,10700
+2020-01-20,Susu Kental Manis Kaleng Merk Indomilk,buah,10800
+2020-01-21,Susu Kental Manis Kaleng Merk Indomilk,buah,11000
+2020-01-22,Susu Kental Manis Kaleng Merk Indomilk,buah,10500
+2020-01-23,Susu Kental Manis Kaleng Merk Indomilk,buah,10900
+2020-01-24,Susu Kental Manis Kaleng Merk Indomilk,buah,10600
+2020-01-27,Susu Kental Manis Kaleng Merk Indomilk,buah,10600
+2020-01-28,Susu Kental Manis Kaleng Merk Indomilk,buah,10600
+2020-01-29,Susu Kental Manis Kaleng Merk Indomilk,buah,10600
+2020-01-30,Susu Kental Manis Kaleng Merk Indomilk,buah,10600
+2020-01-31,Susu Kental Manis Kaleng Merk Indomilk,buah,10600
+2020-01-02,Susu Bubuk Kaleng Merk Bendera,buah,41833
+2020-01-03,Susu Bubuk Kaleng Merk Bendera,buah,41833
+2020-01-06,Susu Bubuk Kaleng Merk Bendera,buah,43250
+2020-01-07,Susu Bubuk Kaleng Merk Bendera,buah,43250
+2020-01-08,Susu Bubuk Kaleng Merk Bendera,buah,42000
+2020-01-09,Susu Bubuk Kaleng Merk Bendera,buah,39667
+2020-01-10,Susu Bubuk Kaleng Merk Bendera,buah,43500
+2020-01-13,Susu Bubuk Kaleng Merk Bendera,buah,44375
+2020-01-14,Susu Bubuk Kaleng Merk Bendera,buah,44625
+2020-01-15,Susu Bubuk Kaleng Merk Bendera,buah,43500
+2020-01-16,Susu Bubuk Kaleng Merk Bendera,buah,43625
+2020-01-17,Susu Bubuk Kaleng Merk Bendera,buah,44625
+2020-01-20,Susu Bubuk Kaleng Merk Bendera,buah,43250
+2020-01-21,Susu Bubuk Kaleng Merk Bendera,buah,44250
+2020-01-22,Susu Bubuk Kaleng Merk Bendera,buah,44500
+2020-01-23,Susu Bubuk Kaleng Merk Bendera,buah,43125
+2020-01-24,Susu Bubuk Kaleng Merk Bendera,buah,43625
+2020-01-27,Susu Bubuk Kaleng Merk Bendera,buah,43625
+2020-01-28,Susu Bubuk Kaleng Merk Bendera,buah,43625
+2020-01-29,Susu Bubuk Kaleng Merk Bendera,buah,43625
+2020-01-30,Susu Bubuk Kaleng Merk Bendera,buah,43625
+2020-01-31,Susu Bubuk Kaleng Merk Bendera,buah,43625
+2020-01-02,Susu Bubuk Kaleng Merk Indomilk,buah,39250
+2020-01-03,Susu Bubuk Kaleng Merk Indomilk,buah,39250
+2020-01-06,Susu Bubuk Kaleng Merk Indomilk,buah,44000
+2020-01-07,Susu Bubuk Kaleng Merk Indomilk,buah,44000
+2020-01-08,Susu Bubuk Kaleng Merk Indomilk,buah,39500
+2020-01-09,Susu Bubuk Kaleng Merk Indomilk,buah,35000
+2020-01-10,Susu Bubuk Kaleng Merk Indomilk,buah,40450
+2020-01-13,Susu Bubuk Kaleng Merk Indomilk,buah,42325
+2020-01-14,Susu Bubuk Kaleng Merk Indomilk,buah,42450
+2020-01-15,Susu Bubuk Kaleng Merk Indomilk,buah,42250
+2020-01-16,Susu Bubuk Kaleng Merk Indomilk,buah,40575
+2020-01-17,Susu Bubuk Kaleng Merk Indomilk,buah,42450
+2020-01-20,Susu Bubuk Kaleng Merk Indomilk,buah,40450
+2020-01-21,Susu Bubuk Kaleng Merk Indomilk,buah,42325
+2020-01-22,Susu Bubuk Kaleng Merk Indomilk,buah,42325
+2020-01-23,Susu Bubuk Kaleng Merk Indomilk,buah,40825
+2020-01-24,Susu Bubuk Kaleng Merk Indomilk,buah,40575
+2020-01-27,Susu Bubuk Kaleng Merk Indomilk,buah,40575
+2020-01-28,Susu Bubuk Kaleng Merk Indomilk,buah,40575
+2020-01-29,Susu Bubuk Kaleng Merk Indomilk,buah,40575
+2020-01-30,Susu Bubuk Kaleng Merk Indomilk,buah,40575
+2020-01-31,Susu Bubuk Kaleng Merk Indomilk,buah,40575
+2020-01-02,Jagung Pipilan Kecil,Kg,15500
+2020-01-03,Jagung Pipilan Kecil,Kg,15500
+2020-01-06,Jagung Pipilan Kecil,Kg,15500
+2020-01-07,Jagung Pipilan Kecil,Kg,15500
+2020-01-08,Jagung Pipilan Kecil,Kg,15333
+2020-01-09,Jagung Pipilan Kecil,Kg,10333
+2020-01-10,Jagung Pipilan Kecil,Kg,16067
+2020-01-13,Jagung Pipilan Kecil,Kg,16067
+2020-01-14,Jagung Pipilan Kecil,Kg,15333
+2020-01-15,Jagung Pipilan Kecil,Kg,16333
+2020-01-16,Jagung Pipilan Kecil,Kg,15500
+2020-01-17,Jagung Pipilan Kecil,Kg,15667
+2020-01-20,Jagung Pipilan Kecil,Kg,15667
+2020-01-21,Jagung Pipilan Kecil,Kg,15667
+2020-01-22,Jagung Pipilan Kecil,Kg,15667
+2020-01-23,Jagung Pipilan Kecil,Kg,15667
+2020-01-24,Jagung Pipilan Kecil,Kg,15500
+2020-01-27,Jagung Pipilan Kecil,Kg,15500
+2020-01-28,Jagung Pipilan Kecil,Kg,15500
+2020-01-29,Jagung Pipilan Kecil,Kg,15500
+2020-01-30,Jagung Pipilan Kecil,Kg,15500
+2020-01-31,Jagung Pipilan Kecil,Kg,15500
+2020-01-02,Garam Beryodium Bata,250 gr,7417
+2020-01-03,Garam Beryodium Bata,250 gr,7417
+2020-01-06,Garam Beryodium Bata,250 gr,8667
+2020-01-07,Garam Beryodium Bata,250 gr,8667
+2020-01-08,Garam Beryodium Bata,250 gr,7000
+2020-01-09,Garam Beryodium Bata,250 gr,7417
+2020-01-10,Garam Beryodium Bata,250 gr,4390
+2020-01-13,Garam Beryodium Bata,250 gr,4140
+2020-01-14,Garam Beryodium Bata,250 gr,5140
+2020-01-15,Garam Beryodium Bata,250 gr,5460
+2020-01-16,Garam Beryodium Bata,250 gr,6140
+2020-01-17,Garam Beryodium Bata,250 gr,6390
+2020-01-20,Garam Beryodium Bata,250 gr,4390
+2020-01-21,Garam Beryodium Bata,250 gr,4140
+2020-01-22,Garam Beryodium Bata,250 gr,5140
+2020-01-23,Garam Beryodium Bata,250 gr,3960
+2020-01-24,Garam Beryodium Bata,250 gr,4140
+2020-01-27,Garam Beryodium Bata,250 gr,4140
+2020-01-28,Garam Beryodium Bata,250 gr,4140
+2020-01-29,Garam Beryodium Bata,250 gr,4140
+2020-01-30,Garam Beryodium Bata,250 gr,4140
+2020-01-31,Garam Beryodium Bata,250 gr,4140
+2020-01-02,Garam Beryodium Halus,Kg,7000
+2020-01-03,Garam Beryodium Halus,Kg,7000
+2020-01-06,Garam Beryodium Halus,Kg,6000
+2020-01-07,Garam Beryodium Halus,Kg,6000
+2020-01-08,Garam Beryodium Halus,Kg,7200
+2020-01-09,Garam Beryodium Halus,Kg,7200
+2020-01-10,Garam Beryodium Halus,Kg,9600
+2020-01-13,Garam Beryodium Halus,Kg,9300
+2020-01-14,Garam Beryodium Halus,Kg,9300
+2020-01-15,Garam Beryodium Halus,Kg,8000
+2020-01-16,Garam Beryodium Halus,Kg,7800
+2020-01-17,Garam Beryodium Halus,Kg,7600
+2020-01-20,Garam Beryodium Halus,Kg,9200
+2020-01-21,Garam Beryodium Halus,Kg,9300
+2020-01-22,Garam Beryodium Halus,Kg,8200
+2020-01-23,Garam Beryodium Halus,Kg,8600
+2020-01-24,Garam Beryodium Halus,Kg,9200
+2020-01-27,Garam Beryodium Halus,Kg,9200
+2020-01-28,Garam Beryodium Halus,Kg,9200
+2020-01-29,Garam Beryodium Halus,Kg,9200
+2020-01-30,Garam Beryodium Halus,Kg,9200
+2020-01-31,Garam Beryodium Halus,Kg,9200
+2020-01-02,Tepung Terigu Segitiga Biru,Kg,9600
+2020-01-03,Tepung Terigu Segitiga Biru,Kg,9600
+2020-01-06,Tepung Terigu Segitiga Biru,Kg,9200
+2020-01-07,Tepung Terigu Segitiga Biru,Kg,9300
+2020-01-08,Tepung Terigu Segitiga Biru,Kg,9600
+2020-01-09,Tepung Terigu Segitiga Biru,Kg,9900
+2020-01-10,Tepung Terigu Segitiga Biru,Kg,9500
+2020-01-13,Tepung Terigu Segitiga Biru,Kg,9300
+2020-01-14,Tepung Terigu Segitiga Biru,Kg,9400
+2020-01-15,Tepung Terigu Segitiga Biru,Kg,9600
+2020-01-16,Tepung Terigu Segitiga Biru,Kg,9500
+2020-01-17,Tepung Terigu Segitiga Biru,Kg,9800
+2020-01-20,Tepung Terigu Segitiga Biru,Kg,9400
+2020-01-21,Tepung Terigu Segitiga Biru,Kg,9400
+2020-01-22,Tepung Terigu Segitiga Biru,Kg,9000
+2020-01-23,Tepung Terigu Segitiga Biru,Kg,9300
+2020-01-24,Tepung Terigu Segitiga Biru,Kg,9500
+2020-01-27,Tepung Terigu Segitiga Biru,Kg,9500
+2020-01-28,Tepung Terigu Segitiga Biru,Kg,9500
+2020-01-29,Tepung Terigu Segitiga Biru,Kg,9500
+2020-01-30,Tepung Terigu Segitiga Biru,Kg,9500
+2020-01-31,Tepung Terigu Segitiga Biru,Kg,9500
+2020-01-02,Kacang Kedelai Eks Impor,Kg,11500
+2020-01-03,Kacang Kedelai Eks Impor,Kg,12250
+2020-01-06,Kacang Kedelai Eks Impor,Kg,11500
+2020-01-07,Kacang Kedelai Eks Impor,Kg,11875
+2020-01-08,Kacang Kedelai Eks Impor,Kg,11667
+2020-01-09,Kacang Kedelai Eks Impor,Kg,11667
+2020-01-10,Kacang Kedelai Eks Impor,Kg,15125
+2020-01-13,Kacang Kedelai Eks Impor,Kg,12500
+2020-01-14,Kacang Kedelai Eks Impor,Kg,12050
+2020-01-15,Kacang Kedelai Eks Impor,Kg,12000
+2020-01-16,Kacang Kedelai Eks Impor,Kg,12440
+2020-01-17,Kacang Kedelai Eks Impor,Kg,12300
+2020-01-20,Kacang Kedelai Eks Impor,Kg,12240
+2020-01-21,Kacang Kedelai Eks Impor,Kg,13240
+2020-01-22,Kacang Kedelai Eks Impor,Kg,12540
+2020-01-23,Kacang Kedelai Eks Impor,Kg,13040
+2020-01-24,Kacang Kedelai Eks Impor,Kg,13040
+2020-01-27,Kacang Kedelai Eks Impor,Kg,13040
+2020-01-28,Kacang Kedelai Eks Impor,Kg,13040
+2020-01-29,Kacang Kedelai Eks Impor,Kg,13040
+2020-01-30,Kacang Kedelai Eks Impor,Kg,13040
+2020-01-31,Kacang Kedelai Eks Impor,Kg,13040
+2020-01-02,Kacang Kedelai Lokal,Kg,12000
+2020-01-03,Kacang Kedelai Lokal,Kg,12000
+2020-01-06,Kacang Kedelai Lokal,Kg,12000
+2020-01-07,Kacang Kedelai Lokal,Kg,12000
+2020-01-08,Kacang Kedelai Lokal,Kg,13500
+2020-01-09,Kacang Kedelai Lokal,Kg,12250
+2020-01-10,Kacang Kedelai Lokal,Kg,12000
+2020-01-13,Kacang Kedelai Lokal,Kg,12000
+2020-01-14,Kacang Kedelai Lokal,Kg,11433
+2020-01-15,Kacang Kedelai Lokal,Kg,12150
+2020-01-16,Kacang Kedelai Lokal,Kg,11433
+2020-01-17,Kacang Kedelai Lokal,Kg,12150
+2020-01-20,Kacang Kedelai Lokal,Kg,12150
+2020-01-21,Kacang Kedelai Lokal,Kg,12150
+2020-01-22,Kacang Kedelai Lokal,Kg,12150
+2020-01-23,Kacang Kedelai Lokal,Kg,12150
+2020-01-24,Kacang Kedelai Lokal,Kg,12150
+2020-01-27,Kacang Kedelai Lokal,Kg,12150
+2020-01-28,Kacang Kedelai Lokal,Kg,12150
+2020-01-29,Kacang Kedelai Lokal,Kg,12150
+2020-01-30,Kacang Kedelai Lokal,Kg,12150
+2020-01-31,Kacang Kedelai Lokal,Kg,12150
+2020-01-02,Indomie Rasa Kari Ayam,buah,2600
+2020-01-03,Indomie Rasa Kari Ayam,buah,2600
+2020-01-06,Indomie Rasa Kari Ayam,buah,2600
+2020-01-07,Indomie Rasa Kari Ayam,buah,2600
+2020-01-08,Indomie Rasa Kari Ayam,buah,2600
+2020-01-09,Indomie Rasa Kari Ayam,buah,2600
+2020-01-10,Indomie Rasa Kari Ayam,buah,2600
+2020-01-13,Indomie Rasa Kari Ayam,buah,2580
+2020-01-14,Indomie Rasa Kari Ayam,buah,2460
+2020-01-15,Indomie Rasa Kari Ayam,buah,2600
+2020-01-16,Indomie Rasa Kari Ayam,buah,2600
+2020-01-17,Indomie Rasa Kari Ayam,buah,2700
+2020-01-20,Indomie Rasa Kari Ayam,buah,2600
+2020-01-21,Indomie Rasa Kari Ayam,buah,2700
+2020-01-22,Indomie Rasa Kari Ayam,buah,2700
+2020-01-23,Indomie Rasa Kari Ayam,buah,2700
+2020-01-24,Indomie Rasa Kari Ayam,buah,2710
+2020-01-27,Indomie Rasa Kari Ayam,buah,2710
+2020-01-28,Indomie Rasa Kari Ayam,buah,2710
+2020-01-29,Indomie Rasa Kari Ayam,buah,2710
+2020-01-30,Indomie Rasa Kari Ayam,buah,2710
+2020-01-31,Indomie Rasa Kari Ayam,buah,2710
+2020-01-02,Cabai Merah Kriting,Kg,46400
+2020-01-03,Cabai Merah Kriting,Kg,52000
+2020-01-06,Cabai Merah Kriting,Kg,56000
+2020-01-07,Cabai Merah Kriting,Kg,57000
+2020-01-08,Cabai Merah Kriting,Kg,62500
+2020-01-09,Cabai Merah Kriting,Kg,62500
+2020-01-10,Cabai Merah Kriting,Kg,66000
+2020-01-13,Cabai Merah Kriting,Kg,66500
+2020-01-14,Cabai Merah Kriting,Kg,63500
+2020-01-15,Cabai Merah Kriting,Kg,71500
+2020-01-16,Cabai Merah Kriting,Kg,58600
+2020-01-17,Cabai Merah Kriting,Kg,63000
+2020-01-20,Cabai Merah Kriting,Kg,62000
+2020-01-21,Cabai Merah Kriting,Kg,62000
+2020-01-22,Cabai Merah Kriting,Kg,61600
+2020-01-23,Cabai Merah Kriting,Kg,65500
+2020-01-24,Cabai Merah Kriting,Kg,59500
+2020-01-27,Cabai Merah Kriting,Kg,59100
+2020-01-28,Cabai Merah Kriting,Kg,60500
+2020-01-29,Cabai Merah Kriting,Kg,60500
+2020-01-30,Cabai Merah Kriting,Kg,60500
+2020-01-31,Cabai Merah Kriting,Kg,60500
+2020-01-02,Cabai Merah Besar,Kg,48000
+2020-01-03,Cabai Merah Besar,Kg,51100
+2020-01-06,Cabai Merah Besar,Kg,60000
+2020-01-07,Cabai Merah Besar,Kg,59500
+2020-01-08,Cabai Merah Besar,Kg,64000
+2020-01-09,Cabai Merah Besar,Kg,65000
+2020-01-10,Cabai Merah Besar,Kg,66000
+2020-01-13,Cabai Merah Besar,Kg,80000
+2020-01-14,Cabai Merah Besar,Kg,75500
+2020-01-15,Cabai Merah Besar,Kg,78100
+2020-01-16,Cabai Merah Besar,Kg,70000
+2020-01-17,Cabai Merah Besar,Kg,75300
+2020-01-20,Cabai Merah Besar,Kg,79500
+2020-01-21,Cabai Merah Besar,Kg,78500
+2020-01-22,Cabai Merah Besar,Kg,68400
+2020-01-23,Cabai Merah Besar,Kg,86000
+2020-01-24,Cabai Merah Besar,Kg,75000
+2020-01-27,Cabai Merah Besar,Kg,76000
+2020-01-28,Cabai Merah Besar,Kg,76000
+2020-01-29,Cabai Merah Besar,Kg,76000
+2020-01-30,Cabai Merah Besar,Kg,76000
+2020-01-31,Cabai Merah Besar,Kg,76000
+2020-01-02,Cabai Rawit Merah,Kg,48000
+2020-01-03,Cabai Rawit Merah,Kg,54000
+2020-01-06,Cabai Rawit Merah,Kg,65000
+2020-01-07,Cabai Rawit Merah,Kg,65000
+2020-01-08,Cabai Rawit Merah,Kg,67000
+2020-01-09,Cabai Rawit Merah,Kg,68000
+2020-01-10,Cabai Rawit Merah,Kg,70100
+2020-01-13,Cabai Rawit Merah,Kg,77100
+2020-01-14,Cabai Rawit Merah,Kg,75100
+2020-01-15,Cabai Rawit Merah,Kg,86000
+2020-01-16,Cabai Rawit Merah,Kg,71000
+2020-01-17,Cabai Rawit Merah,Kg,79000
+2020-01-20,Cabai Rawit Merah,Kg,83500
+2020-01-21,Cabai Rawit Merah,Kg,84000
+2020-01-22,Cabai Rawit Merah,Kg,86000
+2020-01-23,Cabai Rawit Merah,Kg,96000
+2020-01-24,Cabai Rawit Merah,Kg,87000
+2020-01-27,Cabai Rawit Merah,Kg,85000
+2020-01-28,Cabai Rawit Merah,Kg,87000
+2020-01-29,Cabai Rawit Merah,Kg,87000
+2020-01-30,Cabai Rawit Merah,Kg,87000
+2020-01-31,Cabai Rawit Merah,Kg,87000
+2020-01-02,Cabai Rawit Hijau,Kg,34500
+2020-01-03,Cabai Rawit Hijau,Kg,36000
+2020-01-06,Cabai Rawit Hijau,Kg,37500
+2020-01-07,Cabai Rawit Hijau,Kg,38400
+2020-01-08,Cabai Rawit Hijau,Kg,38400
+2020-01-09,Cabai Rawit Hijau,Kg,39400
+2020-01-10,Cabai Rawit Hijau,Kg,44400
+2020-01-13,Cabai Rawit Hijau,Kg,44100
+2020-01-14,Cabai Rawit Hijau,Kg,35600
+2020-01-15,Cabai Rawit Hijau,Kg,40400
+2020-01-16,Cabai Rawit Hijau,Kg,39900
+2020-01-17,Cabai Rawit Hijau,Kg,42100
+2020-01-20,Cabai Rawit Hijau,Kg,44000
+2020-01-21,Cabai Rawit Hijau,Kg,43500
+2020-01-22,Cabai Rawit Hijau,Kg,41900
+2020-01-23,Cabai Rawit Hijau,Kg,42900
+2020-01-24,Cabai Rawit Hijau,Kg,40900
+2020-01-27,Cabai Rawit Hijau,Kg,40900
+2020-01-28,Cabai Rawit Hijau,Kg,40500
+2020-01-29,Cabai Rawit Hijau,Kg,40500
+2020-01-30,Cabai Rawit Hijau,Kg,40500
+2020-01-31,Cabai Rawit Hijau,Kg,40500
+2020-01-02,Bawang Merah (Medium),Kg,38900
+2020-01-03,Bawang Merah (Medium),Kg,43900
+2020-01-06,Bawang Merah (Medium),Kg,41600
+2020-01-07,Bawang Merah (Medium),Kg,40800
+2020-01-08,Bawang Merah (Medium),Kg,38300
+2020-01-09,Bawang Merah (Medium),Kg,37300
+2020-01-10,Bawang Merah (Medium),Kg,39700
+2020-01-13,Bawang Merah (Medium),Kg,38700
+2020-01-14,Bawang Merah (Medium),Kg,37200
+2020-01-15,Bawang Merah (Medium),Kg,37600
+2020-01-16,Bawang Merah (Medium),Kg,35100
+2020-01-17,Bawang Merah (Medium),Kg,35100
+2020-01-20,Bawang Merah (Medium),Kg,36500
+2020-01-21,Bawang Merah (Medium),Kg,36000
+2020-01-22,Bawang Merah (Medium),Kg,35000
+2020-01-23,Bawang Merah (Medium),Kg,36000
+2020-01-24,Bawang Merah (Medium),Kg,36000
+2020-01-27,Bawang Merah (Medium),Kg,35800
+2020-01-28,Bawang Merah (Medium),Kg,35800
+2020-01-29,Bawang Merah (Medium),Kg,35800
+2020-01-30,Bawang Merah (Medium),Kg,35800
+2020-01-31,Bawang Merah (Medium),Kg,35800
+2020-01-02,"Bawang Putih Impor, Kating",Kg,35000
+2020-01-03,"Bawang Putih Impor, Kating",Kg,36400
+2020-01-06,"Bawang Putih Impor, Kating",Kg,35700
+2020-01-07,"Bawang Putih Impor, Kating",Kg,36000
+2020-01-08,"Bawang Putih Impor, Kating",Kg,36900
+2020-01-09,"Bawang Putih Impor, Kating",Kg,37200
+2020-01-10,"Bawang Putih Impor, Kating",Kg,38600
+2020-01-13,"Bawang Putih Impor, Kating",Kg,39600
+2020-01-14,"Bawang Putih Impor, Kating",Kg,35600
+2020-01-15,"Bawang Putih Impor, Kating",Kg,39000
+2020-01-16,"Bawang Putih Impor, Kating",Kg,39400
+2020-01-17,"Bawang Putih Impor, Kating",Kg,39400
+2020-01-20,"Bawang Putih Impor, Kating",Kg,39900
+2020-01-21,"Bawang Putih Impor, Kating",Kg,39600
+2020-01-22,"Bawang Putih Impor, Kating",Kg,38600
+2020-01-23,"Bawang Putih Impor, Kating",Kg,40500
+2020-01-24,"Bawang Putih Impor, Kating",Kg,38600
+2020-01-27,"Bawang Putih Impor, Kating",Kg,38600
+2020-01-28,"Bawang Putih Impor, Kating",Kg,38600
+2020-01-29,"Bawang Putih Impor, Kating",Kg,38600
+2020-01-30,"Bawang Putih Impor, Kating",Kg,38600
+2020-01-31,"Bawang Putih Impor, Kating",Kg,38600
+2020-01-02,"Bawang Putih Impor, Honan",Kg,31000
+2020-01-03,"Bawang Putih Impor, Honan",Kg,31667
+2020-01-06,"Bawang Putih Impor, Honan",Kg,32667
+2020-01-07,"Bawang Putih Impor, Honan",Kg,32667
+2020-01-08,"Bawang Putih Impor, Honan",Kg,32333
+2020-01-09,"Bawang Putih Impor, Honan",Kg,33167
+2020-01-10,"Bawang Putih Impor, Honan",Kg,32333
+2020-01-13,"Bawang Putih Impor, Honan",Kg,37333
+2020-01-14,"Bawang Putih Impor, Honan",Kg,31667
+2020-01-15,"Bawang Putih Impor, Honan",Kg,33500
+2020-01-16,"Bawang Putih Impor, Honan",Kg,33000
+2020-01-17,"Bawang Putih Impor, Honan",Kg,33833
+2020-01-20,"Bawang Putih Impor, Honan",Kg,33000
+2020-01-21,"Bawang Putih Impor, Honan",Kg,33833
+2020-01-22,"Bawang Putih Impor, Honan",Kg,31333
+2020-01-23,"Bawang Putih Impor, Honan",Kg,34500
+2020-01-24,"Bawang Putih Impor, Honan",Kg,33000
+2020-01-27,"Bawang Putih Impor, Honan",Kg,33000
+2020-01-28,"Bawang Putih Impor, Honan",Kg,33000
+2020-01-29,"Bawang Putih Impor, Honan",Kg,33000
+2020-01-30,"Bawang Putih Impor, Honan",Kg,33000
+2020-01-31,"Bawang Putih Impor, Honan",Kg,33000
+2020-01-02,Ikan Teri Asin,Kg,122600
+2020-01-03,Ikan Teri Asin,Kg,125600
+2020-01-06,Ikan Teri Asin,Kg,114100
+2020-01-07,Ikan Teri Asin,Kg,116600
+2020-01-08,Ikan Teri Asin,Kg,108100
+2020-01-09,Ikan Teri Asin,Kg,108100
+2020-01-10,Ikan Teri Asin,Kg,116000
+2020-01-13,Ikan Teri Asin,Kg,110500
+2020-01-14,Ikan Teri Asin,Kg,105800
+2020-01-15,Ikan Teri Asin,Kg,107300
+2020-01-16,Ikan Teri Asin,Kg,109000
+2020-01-17,Ikan Teri Asin,Kg,112300
+2020-01-20,Ikan Teri Asin,Kg,112500
+2020-01-21,Ikan Teri Asin,Kg,114000
+2020-01-22,Ikan Teri Asin,Kg,114300
+2020-01-23,Ikan Teri Asin,Kg,106000
+2020-01-24,Ikan Teri Asin,Kg,112000
+2020-01-27,Ikan Teri Asin,Kg,112000
+2020-01-28,Ikan Teri Asin,Kg,112000
+2020-01-29,Ikan Teri Asin,Kg,112000
+2020-01-30,Ikan Teri Asin,Kg,112000
+2020-01-31,Ikan Teri Asin,Kg,112000
+2020-01-02,Ikan Kembung,Kg,40000
+2020-01-03,Ikan Kembung,Kg,40000
+2020-01-06,Ikan Kembung,Kg,40000
+2020-01-07,Ikan Kembung,Kg,39500
+2020-01-08,Ikan Kembung,Kg,40600
+2020-01-09,Ikan Kembung,Kg,39600
+2020-01-10,Ikan Kembung,Kg,40500
+2020-01-13,Ikan Kembung,Kg,33900
+2020-01-14,Ikan Kembung,Kg,40000
+2020-01-15,Ikan Kembung,Kg,40000
+2020-01-16,Ikan Kembung,Kg,38000
+2020-01-17,Ikan Kembung,Kg,40000
+2020-01-20,Ikan Kembung,Kg,40100
+2020-01-21,Ikan Kembung,Kg,38900
+2020-01-22,Ikan Kembung,Kg,39500
+2020-01-23,Ikan Kembung,Kg,39100
+2020-01-24,Ikan Kembung,Kg,40500
+2020-01-27,Ikan Kembung,Kg,40500
+2020-01-28,Ikan Kembung,Kg,40500
+2020-01-29,Ikan Kembung,Kg,40500
+2020-01-30,Ikan Kembung,Kg,40500
+2020-01-31,Ikan Kembung,Kg,40500
+2020-01-02,Kacang Hijau,Kg,23900
+2020-01-03,Kacang Hijau,Kg,24100
+2020-01-06,Kacang Hijau,Kg,23700
+2020-01-07,Kacang Hijau,Kg,23500
+2020-01-08,Kacang Hijau,Kg,23100
+2020-01-09,Kacang Hijau,Kg,23900
+2020-01-10,Kacang Hijau,Kg,23600
+2020-01-13,Kacang Hijau,Kg,23100
+2020-01-14,Kacang Hijau,Kg,22800
+2020-01-15,Kacang Hijau,Kg,23800
+2020-01-16,Kacang Hijau,Kg,22800
+2020-01-17,Kacang Hijau,Kg,23600
+2020-01-20,Kacang Hijau,Kg,22900
+2020-01-21,Kacang Hijau,Kg,23900
+2020-01-22,Kacang Hijau,Kg,22800
+2020-01-23,Kacang Hijau,Kg,24500
+2020-01-24,Kacang Hijau,Kg,23100
+2020-01-27,Kacang Hijau,Kg,23100
+2020-01-28,Kacang Hijau,Kg,23100
+2020-01-29,Kacang Hijau,Kg,23100
+2020-01-30,Kacang Hijau,Kg,23100
+2020-01-31,Kacang Hijau,Kg,23100
+2020-01-02,Kacang Tanah,Kg,26200
+2020-01-03,Kacang Tanah,Kg,27300
+2020-01-06,Kacang Tanah,Kg,27000
+2020-01-07,Kacang Tanah,Kg,27000
+2020-01-08,Kacang Tanah,Kg,27000
+2020-01-09,Kacang Tanah,Kg,28100
+2020-01-10,Kacang Tanah,Kg,26500
+2020-01-13,Kacang Tanah,Kg,27200
+2020-01-14,Kacang Tanah,Kg,25900
+2020-01-15,Kacang Tanah,Kg,27400
+2020-01-16,Kacang Tanah,Kg,25600
+2020-01-17,Kacang Tanah,Kg,27300
+2020-01-20,Kacang Tanah,Kg,26900
+2020-01-21,Kacang Tanah,Kg,26500
+2020-01-22,Kacang Tanah,Kg,26300
+2020-01-23,Kacang Tanah,Kg,28600
+2020-01-24,Kacang Tanah,Kg,26000
+2020-01-27,Kacang Tanah,Kg,26000
+2020-01-28,Kacang Tanah,Kg,26000
+2020-01-29,Kacang Tanah,Kg,26000
+2020-01-30,Kacang Tanah,Kg,26000
+2020-01-31,Kacang Tanah,Kg,26000
+2020-01-02,Ketela Pohon,Kg,5400
+2020-01-03,Ketela Pohon,Kg,5400
+2020-01-06,Ketela Pohon,Kg,5400
+2020-01-07,Ketela Pohon,Kg,5400
+2020-01-08,Ketela Pohon,Kg,5600
+2020-01-09,Ketela Pohon,Kg,5600
+2020-01-10,Ketela Pohon,Kg,5400
+2020-01-13,Ketela Pohon,Kg,5800
+2020-01-14,Ketela Pohon,Kg,5400
+2020-01-15,Ketela Pohon,Kg,5400
+2020-01-16,Ketela Pohon,Kg,5600
+2020-01-17,Ketela Pohon,Kg,5800
+2020-01-20,Ketela Pohon,Kg,5400
+2020-01-21,Ketela Pohon,Kg,5800
+2020-01-22,Ketela Pohon,Kg,5400
+2020-01-23,Ketela Pohon,Kg,5400
+2020-01-24,Ketela Pohon,Kg,5600
+2020-01-27,Ketela Pohon,Kg,5600
+2020-01-28,Ketela Pohon,Kg,5600
+2020-01-29,Ketela Pohon,Kg,5600
+2020-01-30,Ketela Pohon,Kg,5600
+2020-01-31,Ketela Pohon,Kg,5600
