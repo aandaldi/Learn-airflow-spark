@@ -1,0 +1,21 @@
+FROM apache/airflow:2.2.1
+
+user root
+
+# Install Java
+RUN apt-get update && \
+     apt-get install openjdk-11-jre -y
+
+# create and setup directory
+RUN mkdir log_output
+COPY jars jars
+COPY input_files input_files
+COPY requirements.txt db_properties.ini .
+
+# open access Read Write and Execute to directory
+RUN chmod 777 log_output jars input_files
+
+# Install Depedencies
+user airflow
+
+RUN pip install -r requirements.txt
